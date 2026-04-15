@@ -16,7 +16,7 @@ Each one taught me something the classroom didn't.
 
 ---
 
-### �️ Tech Stack
+### 🛠 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
@@ -97,7 +97,9 @@ Each one taught me something the classroom didn't.
   <a href="https://github.com/DrStone113">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  <a href="https://facebook.com/khang.thach.399">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
 </div>
 
 ---
@@ -109,12 +111,12 @@ Each one taught me something the classroom didn't.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DrStone113&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DrStone113&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="150" alt="top langs" />
+  <img src="https://github-readme-stats-one-beta-54.vercel.app/api?username=DrStone113&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-one-beta-54.vercel.app/api/top-langs/?username=DrStone113&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="150" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DrStone113&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrStone113&theme=dracula&hide_border=false&area=true" alt="activity graph" />
 </div>
 
 ---
